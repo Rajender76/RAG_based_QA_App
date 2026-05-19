@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+
+langchain-huggingface
+langchain-text-splitters
+
+faiss-cpu
+numpy
+streamlit
+PyPDF2
+python-docx
+sentence-transformers
+unstructured
+nltk
